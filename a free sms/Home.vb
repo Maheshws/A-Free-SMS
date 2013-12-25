@@ -149,7 +149,7 @@ Public Class Home
     End Sub
 
     Private Sub LinkLabel3_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel3.LinkClicked
-        System.Diagnostics.Process.Start("http://mahesh.ws")
+        System.Diagnostics.Process.Start("http://maxxroid.com/")
     End Sub
 
     Private Sub Home_Load(sender As Object, e As EventArgs) Handles MyBase.Load
